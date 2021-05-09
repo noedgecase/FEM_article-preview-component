@@ -1,13 +1,36 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url(https://fonts.googleapis.com/css?family=Manrope:200,300,regular,500,600,700,800);
+
+html {
+  font-size: 16px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Manrope';
+  background-color: hsl(210, 46%, 95%);
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 2000px;
+  height: 800px;
+}
+
+@media only screen and (max-width: 760px) {
+  html {
+    font-size: 14px;
+  }
+  main {
+    height: auto;
+  }
+  .card {
+    margin: 10% auto;
+  }
 }
