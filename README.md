@@ -1,7 +1,5 @@
 # Frontend Mentor - Article preview component solution
 
-This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
 ## Table of contents
 
 - [Screenshot](#screenshot)
@@ -18,12 +16,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Animation.gif)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-react-sVLoQ0Xc8)
+- Live Site URL: [Vercel](https://preview-article-component.vercel.app/)
 
 ### Built with
 
@@ -33,6 +31,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@popescudragos](https://www.frontendmentor.io/profile/popescudragos)
-- Twitter - [@ospop](https://www.linkedin.com/in/ospop/)
+- LinkedIn - [@ospop](https://www.linkedin.com/in/ospop/)
