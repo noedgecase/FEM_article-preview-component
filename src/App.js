@@ -4,9 +4,9 @@ import Card from './Card/Card'
 
 const App = () => {
   return (
-    <main>
+    <div>
       <Card />
-    </main>
+    </div>
   )
 }
 

@@ -1,6 +1,7 @@
 /* /////MAIN CARD///// */
 /* /////////////////// */
 .card {
+  margin: 0 auto;
   border-radius: 1em;
   display: flex;
   width: clamp(280px, 80%, 48em);
